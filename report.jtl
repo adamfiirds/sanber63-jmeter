@@ -1,6 +1,0 @@
-timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
-1738669294293,1074,GET contact - 1,200,OK,Load Testing 1-1,text,true,,1312,228,5,5,https://thinking-tester-contact-list.herokuapp.com/thinking-tester-contact-list.herokuapp.com/contacts,1074,0,808
-1738669294502,1246,GET contact - 2,200,OK,Load Testing 1-2,text,true,,1312,228,4,4,https://thinking-tester-contact-list.herokuapp.com/thinking-tester-contact-list.herokuapp.com/contacts,1246,0,934
-1738669294692,1233,GET contact - 3,200,OK,Load Testing 1-3,text,true,,1312,228,3,3,https://thinking-tester-contact-list.herokuapp.com/thinking-tester-contact-list.herokuapp.com/contacts,1233,0,924
-1738669294892,1252,GET contact - 4,200,OK,Load Testing 1-4,text,true,,1328,228,2,2,https://thinking-tester-contact-list.herokuapp.com/thinking-tester-contact-list.herokuapp.com/contacts,1252,0,933
-1738669295097,1232,GET contact - 5,200,OK,Load Testing 1-5,text,true,,1328,228,1,1,https://thinking-tester-contact-list.herokuapp.com/thinking-tester-contact-list.herokuapp.com/contacts,1232,0,923
