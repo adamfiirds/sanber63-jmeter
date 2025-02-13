@@ -1,0 +1,351 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1739130479685,2779,POST login user - 1,200,OK,LOADTEST 1-1,text,true,,1268,282,28,28,https://thinking-tester-contact-list.herokuapp.com/users/login,2779,0,850
+1739130479791,2739,POST login user - 2,200,OK,LOADTEST 1-2,text,true,,1268,282,29,29,https://thinking-tester-contact-list.herokuapp.com/users/login,2739,0,818
+1739130479886,2729,POST login user - 3,200,OK,LOADTEST 1-3,text,true,,1268,282,30,30,https://thinking-tester-contact-list.herokuapp.com/users/login,2729,0,805
+1739130479984,2737,POST login user - 4,200,OK,LOADTEST 1-4,text,true,,1272,282,31,31,https://thinking-tester-contact-list.herokuapp.com/users/login,2737,0,830
+1739130480284,2734,POST login user - 7,200,OK,LOADTEST 1-7,text,true,,1272,282,34,34,https://thinking-tester-contact-list.herokuapp.com/users/login,2734,0,815
+1739130480095,2942,POST login user - 5,200,OK,LOADTEST 1-5,text,true,,1272,282,34,34,https://thinking-tester-contact-list.herokuapp.com/users/login,2942,0,937
+1739130480189,2902,POST login user - 6,200,OK,LOADTEST 1-6,text,true,,1272,282,35,35,https://thinking-tester-contact-list.herokuapp.com/users/login,2902,0,944
+1739130480384,2735,POST login user - 8,200,OK,LOADTEST 1-8,text,true,,1272,282,35,35,https://thinking-tester-contact-list.herokuapp.com/users/login,2735,0,773
+1739130480495,2716,POST login user - 9,200,OK,LOADTEST 1-9,text,true,,1272,282,36,36,https://thinking-tester-contact-list.herokuapp.com/users/login,2716,0,804
+1739130480589,2677,POST login user - 10,200,OK,LOADTEST 1-10,text,true,,1274,283,36,36,https://thinking-tester-contact-list.herokuapp.com/users/login,2677,0,792
+1739130480686,2743,POST login user - 11,200,OK,LOADTEST 1-11,text,true,,1274,283,38,38,https://thinking-tester-contact-list.herokuapp.com/users/login,2743,0,804
+1739130480780,2708,POST login user - 12,200,OK,LOADTEST 1-12,text,true,,1274,283,39,39,https://thinking-tester-contact-list.herokuapp.com/users/login,2708,0,804
+1739130482530,1159,Transaction Controller - ADD Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-2,,true,,1061,852,41,41,null,0,1,0
+1739130482531,1159,POST Add Contact,201,Created,LOADTEST 1-2,text,true,,1061,852,41,41,https://thinking-tester-contact-list.herokuapp.com/contacts,1159,0,0
+1739130480880,2850,POST login user - 13,200,OK,LOADTEST 1-13,text,true,,1274,283,41,41,https://thinking-tester-contact-list.herokuapp.com/users/login,2850,0,940
+1739130480981,2899,POST login user - 14,200,OK,LOADTEST 1-14,text,true,,1274,283,43,43,https://thinking-tester-contact-list.herokuapp.com/users/login,2899,0,952
+1739130481080,2816,POST login user - 15,200,OK,LOADTEST 1-15,text,true,,1274,283,43,43,https://thinking-tester-contact-list.herokuapp.com/users/login,2816,0,808
+1739130482464,1515,Transaction Controller - ADD Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-1,,true,,1061,852,44,44,null,0,1,0
+1739130482465,1515,POST Add Contact,201,Created,LOADTEST 1-1,text,true,,1061,852,43,43,https://thinking-tester-contact-list.herokuapp.com/contacts,1515,0,0
+1739130481180,2810,POST login user - 16,200,OK,LOADTEST 1-16,text,true,,1274,283,44,44,https://thinking-tester-contact-list.herokuapp.com/users/login,2810,0,769
+1739130482616,1386,Transaction Controller - ADD Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-3,,true,,1061,852,44,44,null,0,0,0
+1739130482616,1386,POST Add Contact,201,Created,LOADTEST 1-3,text,true,,1061,852,44,44,https://thinking-tester-contact-list.herokuapp.com/contacts,1386,0,0
+1739130482722,1296,Transaction Controller - ADD Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-4,,true,,1065,852,44,44,null,0,0,0
+1739130482722,1296,POST Add Contact,201,Created,LOADTEST 1-4,text,true,,1065,852,44,44,https://thinking-tester-contact-list.herokuapp.com/contacts,1296,0,0
+1739130481280,2762,POST login user - 17,200,OK,LOADTEST 1-17,text,true,,1274,283,44,44,https://thinking-tester-contact-list.herokuapp.com/users/login,2762,0,769
+1739130481479,2854,POST login user - 19,200,OK,LOADTEST 1-19,text,true,,1274,283,47,47,https://thinking-tester-contact-list.herokuapp.com/users/login,2854,0,933
+1739130481681,2689,POST login user - 21,200,OK,LOADTEST 1-21,text,true,,1274,283,47,47,https://thinking-tester-contact-list.herokuapp.com/users/login,2689,0,811
+1739130483018,1558,Transaction Controller - ADD Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-7,,true,,1065,852,49,49,null,0,1,0
+1739130483019,1558,POST Add Contact,201,Created,LOADTEST 1-7,text,true,,1065,852,49,49,https://thinking-tester-contact-list.herokuapp.com/contacts,1558,0,0
+1739130481381,3276,POST login user - 18,200,OK,LOADTEST 1-18,text,true,,1274,283,50,50,https://thinking-tester-contact-list.herokuapp.com/users/login,3276,0,951
+1739130481581,3115,POST login user - 20,200,OK,LOADTEST 1-20,text,true,,1274,283,50,50,https://thinking-tester-contact-list.herokuapp.com/users/login,3115,0,804
+1739130481880,2857,POST login user - 23,200,OK,LOADTEST 1-23,text,true,,1274,283,50,50,https://thinking-tester-contact-list.herokuapp.com/users/login,2857,0,786
+1739130483037,1712,Transaction Controller - ADD Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-5,,true,,1065,852,50,50,null,0,0,0
+1739130483037,1712,POST Add Contact,201,Created,LOADTEST 1-5,text,true,,1065,852,50,50,https://thinking-tester-contact-list.herokuapp.com/contacts,1712,0,0
+1739130483266,1538,Transaction Controller - ADD Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-10,,true,,1065,852,50,50,null,0,1,0
+1739130483266,1538,POST Add Contact,201,Created,LOADTEST 1-10,text,true,,1065,852,50,50,https://thinking-tester-contact-list.herokuapp.com/contacts,1538,0,0
+1739130481780,3047,POST login user - 22,200,OK,LOADTEST 1-22,text,true,,1278,283,50,50,https://thinking-tester-contact-list.herokuapp.com/users/login,3047,0,941
+1739130483119,1715,Transaction Controller - ADD Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-8,,true,,1065,852,50,50,null,0,0,0
+1739130483119,1715,POST Add Contact,201,Created,LOADTEST 1-8,text,true,,1065,852,50,50,https://thinking-tester-contact-list.herokuapp.com/contacts,1715,0,0
+1739130483092,1743,Transaction Controller - ADD Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-6,,true,,1065,852,50,50,null,0,0,0
+1739130483092,1743,POST Add Contact,201,Created,LOADTEST 1-6,text,true,,1065,852,50,50,https://thinking-tester-contact-list.herokuapp.com/contacts,1743,0,0
+1739130483730,1140,Transaction Controller - ADD Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-13,,true,,1061,852,50,50,null,0,0,0
+1739130483730,1140,POST Add Contact,201,Created,LOADTEST 1-13,text,true,,1061,852,50,50,https://thinking-tester-contact-list.herokuapp.com/contacts,1140,0,0
+1739130482181,2817,POST login user - 26,200,OK,LOADTEST 1-26,text,true,,1278,283,50,50,https://thinking-tester-contact-list.herokuapp.com/users/login,2817,0,808
+1739130483897,1126,Transaction Controller - ADD Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-15,,true,,1061,852,50,50,null,0,0,0
+1739130483897,1126,POST Add Contact,201,Created,LOADTEST 1-15,text,true,,1061,852,50,50,https://thinking-tester-contact-list.herokuapp.com/contacts,1126,0,0
+1739130483211,1863,Transaction Controller - ADD Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-9,,true,,1065,852,50,50,null,0,0,0
+1739130483211,1863,POST Add Contact,201,Created,LOADTEST 1-9,text,true,,1065,852,50,50,https://thinking-tester-contact-list.herokuapp.com/contacts,1863,0,0
+1739130481981,3220,POST login user - 24,200,OK,LOADTEST 1-24,text,true,,1278,283,50,50,https://thinking-tester-contact-list.herokuapp.com/users/login,3220,0,939
+1739130483429,1823,Transaction Controller - ADD Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-11,,true,,1065,852,50,50,null,0,0,0
+1739130483429,1823,POST Add Contact,201,Created,LOADTEST 1-11,text,true,,1065,852,50,50,https://thinking-tester-contact-list.herokuapp.com/contacts,1823,0,0
+1739130482080,3202,POST login user - 25,200,OK,LOADTEST 1-25,text,true,,1278,283,50,50,https://thinking-tester-contact-list.herokuapp.com/users/login,3202,0,935
+1739130482281,3120,POST login user - 27,200,OK,LOADTEST 1-27,text,true,,1278,283,50,50,https://thinking-tester-contact-list.herokuapp.com/users/login,3120,0,802
+1739130483990,1453,Transaction Controller - ADD Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-16,,true,,1061,852,50,50,null,0,1,0
+1739130483990,1453,POST Add Contact,201,Created,LOADTEST 1-16,text,true,,1061,852,50,50,https://thinking-tester-contact-list.herokuapp.com/contacts,1453,0,0
+1739130484002,1471,Transaction Controller - GET Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-3,,true,,1056,529,50,50,null,0,1,0
+1739130484002,1471,GET Contact,200,OK,LOADTEST 1-3,text,true,,1056,529,50,50,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90673567cec0013381097,1471,0,0
+1739130484018,1503,Transaction Controller - GET Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-4,,true,,1056,529,50,50,null,0,0,0
+1739130484018,1503,GET Contact,200,OK,LOADTEST 1-4,text,true,,1056,529,50,50,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90673567cec0013381099,1503,0,0
+1739130483488,2162,Transaction Controller - ADD Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-12,,true,,1065,852,50,50,null,0,0,0
+1739130483488,2162,POST Add Contact,201,Created,LOADTEST 1-12,text,true,,1065,852,50,50,https://thinking-tester-contact-list.herokuapp.com/contacts,2162,0,0
+1739130484577,1230,Transaction Controller - GET Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-7,,true,,1056,529,50,50,null,0,1,0
+1739130484578,1230,GET Contact,200,OK,LOADTEST 1-7,text,true,,1056,529,50,50,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90674567cec001338109b,1230,0,0
+1739130482980,2918,POST login user - 34,200,OK,LOADTEST 1-34,text,true,,1274,283,50,50,https://thinking-tester-contact-list.herokuapp.com/users/login,2918,0,937
+1739130482387,3554,POST login user - 28,200,OK,LOADTEST 1-28,text,true,,1278,283,50,50,https://thinking-tester-contact-list.herokuapp.com/users/login,3554,0,935
+1739130482487,3486,POST login user - 29,200,OK,LOADTEST 1-29,text,true,,1278,283,50,50,https://thinking-tester-contact-list.herokuapp.com/users/login,3486,0,934
+1739130484738,1368,Transaction Controller - ADD Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-23,,true,,1065,852,50,50,null,0,0,0
+1739130484738,1368,POST Add Contact,201,Created,LOADTEST 1-23,text,true,,1065,852,50,50,https://thinking-tester-contact-list.herokuapp.com/contacts,1368,0,0
+1739130484657,1487,Transaction Controller - ADD Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-18,,true,,1061,852,50,50,null,0,0,0
+1739130484657,1487,POST Add Contact,201,Created,LOADTEST 1-18,text,true,,1061,852,50,50,https://thinking-tester-contact-list.herokuapp.com/contacts,1487,0,0
+1739130483690,2505,Transaction Controller - GET Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-2,,true,,1060,529,50,50,null,0,0,0
+1739130483690,2505,GET Contact,200,OK,LOADTEST 1-2,text,true,,1060,529,50,50,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90673cc8257001391517c,2505,0,0
+1739130483480,2812,POST login user - 39,200,OK,LOADTEST 1-39,text,true,,1274,283,50,50,https://thinking-tester-contact-list.herokuapp.com/users/login,2812,0,797
+1739130483180,3124,POST login user - 36,200,OK,LOADTEST 1-36,text,true,,1274,283,50,50,https://thinking-tester-contact-list.herokuapp.com/users/login,3124,0,937
+1739130484827,1487,Transaction Controller - ADD Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-22,,true,,1065,852,50,50,null,0,0,0
+1739130484827,1487,POST Add Contact,201,Created,LOADTEST 1-22,text,true,,1065,852,50,50,https://thinking-tester-contact-list.herokuapp.com/contacts,1487,0,0
+1739130483381,3085,POST login user - 38,200,OK,LOADTEST 1-38,text,true,,1274,283,50,50,https://thinking-tester-contact-list.herokuapp.com/users/login,3085,0,936
+1739130482586,3893,POST login user - 30,200,OK,LOADTEST 1-30,text,true,,1278,283,50,50,https://thinking-tester-contact-list.herokuapp.com/users/login,3893,0,942
+1739130485444,1154,Transaction Controller - GET Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-16,,true,,1060,529,50,50,null,0,0,0
+1739130485444,1154,GET Contact,200,OK,LOADTEST 1-16,text,true,,1060,529,50,50,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90675567cec00133810a2,1154,0,0
+1739130482781,3855,POST login user - 32,200,OK,LOADTEST 1-32,text,true,,1278,283,50,50,https://thinking-tester-contact-list.herokuapp.com/users/login,3855,0,808
+1739130485474,1174,Transaction Controller - DELETE Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-3,,true,,760,667,50,50,null,0,0,0
+1739130485474,1174,GET Contact,200,OK,LOADTEST 1-3,text,true,,760,667,50,50,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90673567cec0013381097,1174,0,0
+1739130482680,4067,POST login user - 31,200,OK,LOADTEST 1-31,text,true,,1278,283,49,49,https://thinking-tester-contact-list.herokuapp.com/users/login,4067,0,940
+1739130485521,1404,Transaction Controller - DELETE Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-4,,true,,760,667,49,49,null,0,0,0
+1739130485521,1404,GET Contact,200,OK,LOADTEST 1-4,text,true,,760,667,49,49,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90673567cec0013381099,1404,0,0
+1739130485808,1159,Transaction Controller - DELETE Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-7,,true,,752,667,48,48,null,0,0,0
+1739130485808,1159,GET Contact,200,OK,LOADTEST 1-7,text,true,,752,667,48,48,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90674567cec001338109b,1159,0,0
+1739130483880,3090,POST login user - 43,200,OK,LOADTEST 1-43,text,true,,1278,283,47,47,https://thinking-tester-contact-list.herokuapp.com/users/login,3090,0,939
+1739130483880,3142,Transaction Controller - ADD Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-14,,true,,1061,852,47,47,null,0,0,0
+1739130483880,3142,POST Add Contact,201,Created,LOADTEST 1-14,text,true,,1061,852,47,47,https://thinking-tester-contact-list.herokuapp.com/contacts,3142,0,0
+1739130484080,2968,POST login user - 45,200,OK,LOADTEST 1-45,text,true,,1278,283,47,47,https://thinking-tester-contact-list.herokuapp.com/users/login,2968,0,806
+1739130484280,2936,POST login user - 47,200,OK,LOADTEST 1-47,text,true,,1278,283,47,47,https://thinking-tester-contact-list.herokuapp.com/users/login,2936,0,936
+1739130483980,3254,Transaction Controller - GET Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-1,,true,,1056,529,47,47,null,0,0,0
+1739130483980,3254,GET Contact,200,OK,LOADTEST 1-1,text,true,,1056,529,47,47,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90673567cec0013381096,3254,0,0
+1739130484042,3265,Transaction Controller - ADD Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-17,,true,,1061,852,47,47,null,0,1,0
+1739130484043,3265,POST Add Contact,201,Created,LOADTEST 1-17,text,true,,1061,852,47,47,https://thinking-tester-contact-list.herokuapp.com/contacts,3265,0,0
+1739130484380,3041,POST login user - 48,200,OK,LOADTEST 1-48,text,true,,1278,283,47,47,https://thinking-tester-contact-list.herokuapp.com/users/login,3041,0,945
+1739130482880,4575,POST login user - 33,200,OK,LOADTEST 1-33,text,true,,1274,283,47,47,https://thinking-tester-contact-list.herokuapp.com/users/login,4575,0,948
+1739130484370,3145,Transaction Controller - ADD Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-21,,true,,1061,852,47,47,null,0,1,0
+1739130484370,3145,POST Add Contact,201,Created,LOADTEST 1-21,text,true,,1061,852,47,47,https://thinking-tester-contact-list.herokuapp.com/contacts,3145,0,0
+1739130484333,3214,Transaction Controller - ADD Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-19,,true,,1061,852,47,47,null,0,0,0
+1739130484333,3214,POST Add Contact,201,Created,LOADTEST 1-19,text,true,,1061,852,47,47,https://thinking-tester-contact-list.herokuapp.com/contacts,3214,0,0
+1739130486467,1115,Transaction Controller - ADD Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-38,,true,,1057,852,47,47,null,0,0,0
+1739130486467,1115,POST Add Contact,201,Created,LOADTEST 1-38,text,true,,1057,852,47,47,https://thinking-tester-contact-list.herokuapp.com/contacts,1115,0,0
+1739130486479,1111,Transaction Controller - ADD Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-30,,true,,1057,852,47,47,null,0,2,0
+1739130486480,1111,POST Add Contact,201,Created,LOADTEST 1-30,text,true,,1057,852,47,47,https://thinking-tester-contact-list.herokuapp.com/contacts,1111,0,0
+1739130486598,1063,Transaction Controller - DELETE Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-16,,true,,752,667,47,47,null,0,0,0
+1739130486598,1063,GET Contact,200,OK,LOADTEST 1-16,text,true,,752,667,47,47,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90675567cec00133810a2,1063,0,0
+1739130486637,1074,Transaction Controller - ADD Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-32,,true,,1057,852,46,46,null,0,0,0
+1739130486637,1074,POST Add Contact,201,Created,LOADTEST 1-32,text,true,,1057,852,46,46,https://thinking-tester-contact-list.herokuapp.com/contacts,1074,0,0
+1739130486748,1104,Transaction Controller - ADD Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-31,,true,,1065,852,46,46,null,0,0,0
+1739130486748,1104,POST Add Contact,201,Created,LOADTEST 1-31,text,true,,1065,852,46,46,https://thinking-tester-contact-list.herokuapp.com/contacts,1104,0,0
+1739130486293,1649,Transaction Controller - ADD Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-39,,true,,1065,852,46,46,null,0,0,0
+1739130486293,1649,POST Add Contact,201,Created,LOADTEST 1-39,text,true,,1065,852,46,46,https://thinking-tester-contact-list.herokuapp.com/contacts,1649,0,0
+1739130483081,4965,POST login user - 35,200,OK,LOADTEST 1-35,text,true,,1274,283,46,46,https://thinking-tester-contact-list.herokuapp.com/users/login,4965,0,937
+1739130486970,1113,Transaction Controller - ADD Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-43,,true,,1065,852,46,46,null,0,0,0
+1739130486970,1113,POST Add Contact,201,Created,LOADTEST 1-43,text,true,,1065,852,46,46,https://thinking-tester-contact-list.herokuapp.com/contacts,1113,0,0
+1739130484697,3418,Transaction Controller - ADD Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-20,,true,,1065,852,46,46,null,0,0,0
+1739130484697,3418,POST Add Contact,201,Created,LOADTEST 1-20,text,true,,1065,852,46,46,https://thinking-tester-contact-list.herokuapp.com/contacts,3418,0,0
+1739130483280,4914,POST login user - 37,200,OK,LOADTEST 1-37,text,true,,1274,283,46,46,https://thinking-tester-contact-list.herokuapp.com/users/login,4914,0,816
+1739130483580,4712,POST login user - 40,200,OK,LOADTEST 1-40,text,true,,1274,283,46,46,https://thinking-tester-contact-list.herokuapp.com/users/login,4712,0,803
+1739130487309,1057,Transaction Controller - GET Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-17,,true,,1060,529,46,46,null,0,0,0
+1739130487309,1057,GET Contact,200,OK,LOADTEST 1-17,text,true,,1060,529,46,46,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90675cc8257001391518d,1057,0,0
+1739130484805,3575,Transaction Controller - GET Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-10,,true,,1060,529,46,46,null,0,1,0
+1739130484805,3575,GET Contact,200,OK,LOADTEST 1-10,text,true,,1060,529,46,46,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90674567cec001338109e,3575,0,0
+1739130484834,3553,Transaction Controller - GET Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-8,,true,,1060,529,46,46,null,0,2,0
+1739130484835,3553,GET Contact,200,OK,LOADTEST 1-8,text,true,,1060,529,46,46,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90674cc82570013915181,3553,0,0
+1739130484749,3671,Transaction Controller - GET Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-5,,true,,1060,529,46,46,null,0,0,0
+1739130484749,3671,GET Contact,200,OK,LOADTEST 1-5,text,true,,1060,529,46,46,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90674567cec001338109c,3671,0,0
+1739130484835,3619,Transaction Controller - GET Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-6,,true,,1060,529,46,46,null,0,0,0
+1739130484835,3619,GET Contact,200,OK,LOADTEST 1-6,text,true,,1060,529,46,46,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90674567cec001338109d,3619,0,0
+1739130484870,3597,Transaction Controller - GET Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-13,,true,,1060,529,46,46,null,0,0,0
+1739130484870,3597,GET Contact,200,OK,LOADTEST 1-13,text,true,,1060,529,46,46,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90674567cec001338109f,3597,0,0
+1739130487422,1119,Transaction Controller - ADD Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-48,,true,,1065,852,46,46,null,0,0,0
+1739130487422,1119,POST Add Contact,201,Created,LOADTEST 1-48,text,true,,1065,852,46,46,https://thinking-tester-contact-list.herokuapp.com/contacts,1119,0,0
+1739130487455,1099,Transaction Controller - ADD Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-33,,true,,1065,852,46,46,null,0,1,0
+1739130487455,1099,POST Add Contact,201,Created,LOADTEST 1-33,text,true,,1065,852,46,46,https://thinking-tester-contact-list.herokuapp.com/contacts,1099,0,0
+1739130487516,1058,Transaction Controller - GET Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-21,,true,,1060,529,46,46,null,0,0,0
+1739130487516,1058,GET Contact,200,OK,LOADTEST 1-21,text,true,,1060,529,46,46,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90676cc82570013915190,1058,0,0
+1739130483680,4941,POST login user - 41,200,OK,LOADTEST 1-41,text,true,,1274,283,46,46,https://thinking-tester-contact-list.herokuapp.com/users/login,4941,0,799
+1739130484998,3632,Transaction Controller - ADD Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-26,,true,,1065,852,46,46,null,0,0,0
+1739130484998,3632,POST Add Contact,201,Created,LOADTEST 1-26,text,true,,1065,852,46,46,https://thinking-tester-contact-list.herokuapp.com/contacts,3632,0,0
+1739130487547,1111,Transaction Controller - GET Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-19,,true,,1060,529,46,46,null,0,0,0
+1739130487547,1111,GET Contact,200,OK,LOADTEST 1-19,text,true,,1060,529,46,46,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90676cc8257001391518f,1111,0,0
+1739130487592,1103,Transaction Controller - GET Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-30,,true,,1060,529,46,46,null,0,0,0
+1739130487592,1103,GET Contact,200,OK,LOADTEST 1-30,text,true,,1060,529,46,46,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90677567cec00133810ae,1103,0,0
+1739130487711,1074,Transaction Controller - GET Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-32,,true,,1056,529,46,46,null,0,0,0
+1739130487711,1074,GET Contact,200,OK,LOADTEST 1-32,text,true,,1056,529,46,46,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90677567cec00133810af,1074,0,0
+1739130485023,3762,Transaction Controller - GET Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-15,,true,,1060,529,46,46,null,0,1,0
+1739130485023,3762,GET Contact,200,OK,LOADTEST 1-15,text,true,,1060,529,46,46,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90675567cec00133810a0,3762,0,0
+1739130485074,3735,Transaction Controller - GET Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-9,,true,,1060,529,46,46,null,0,0,0
+1739130485074,3735,GET Contact,200,OK,LOADTEST 1-9,text,true,,1060,529,46,46,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90674cc82570013915182,3735,0,0
+1739130485253,3672,Transaction Controller - GET Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-11,,true,,1060,529,46,46,null,0,0,0
+1739130485253,3672,GET Contact,200,OK,LOADTEST 1-11,text,true,,1060,529,46,46,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90674cc82570013915185,3672,0,0
+1739130485201,3757,Transaction Controller - ADD Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-24,,true,,1065,852,46,46,null,0,0,0
+1739130485201,3757,POST Add Contact,201,Created,LOADTEST 1-24,text,true,,1065,852,46,46,https://thinking-tester-contact-list.herokuapp.com/contacts,3757,0,0
+1739130485283,3700,Transaction Controller - ADD Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-25,,true,,1065,852,46,46,null,0,1,0
+1739130485283,3700,POST Add Contact,201,Created,LOADTEST 1-25,text,true,,1065,852,46,46,https://thinking-tester-contact-list.herokuapp.com/contacts,3700,0,0
+1739130487942,1064,Transaction Controller - GET Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-39,,true,,1056,529,46,46,null,0,2,0
+1739130487943,1064,GET Contact,200,OK,LOADTEST 1-39,text,true,,1056,529,46,46,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90677567cec00133810b1,1064,0,0
+1739130483782,5230,POST login user - 42,200,OK,LOADTEST 1-42,text,true,,1278,283,46,46,https://thinking-tester-contact-list.herokuapp.com/users/login,5230,0,930
+1739130485402,3642,Transaction Controller - ADD Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-27,,true,,1065,852,46,46,null,0,0,0
+1739130485402,3642,POST Add Contact,201,Created,LOADTEST 1-27,text,true,,1065,852,46,46,https://thinking-tester-contact-list.herokuapp.com/contacts,3642,0,0
+1739130484180,5012,POST login user - 46,200,OK,LOADTEST 1-46,text,true,,1278,283,46,46,https://thinking-tester-contact-list.herokuapp.com/users/login,5012,0,799
+1739130488083,1112,Transaction Controller - GET Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-43,,true,,1056,529,46,46,null,0,0,0
+1739130488083,1112,GET Contact,200,OK,LOADTEST 1-43,text,true,,1056,529,46,46,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90678567cec00133810b2,1112,0,0
+1739130485650,3551,Transaction Controller - GET Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-12,,true,,1060,529,46,46,null,0,0,0
+1739130485650,3551,GET Contact,200,OK,LOADTEST 1-12,text,true,,1060,529,46,46,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90674cc82570013915186,3551,0,0
+1739130483981,5264,POST login user - 44,200,OK,LOADTEST 1-44,text,true,,1278,283,46,46,https://thinking-tester-contact-list.herokuapp.com/users/login,5264,0,937
+1739130485898,3362,Transaction Controller - ADD Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-34,,true,,1057,852,46,46,null,0,0,0
+1739130485898,3362,POST Add Contact,201,Created,LOADTEST 1-34,text,true,,1057,852,46,46,https://thinking-tester-contact-list.herokuapp.com/contacts,3362,0,0
+1739130485941,3412,Transaction Controller - ADD Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-28,,true,,1057,852,46,46,null,0,0,0
+1739130485941,3412,POST Add Contact,201,Created,LOADTEST 1-28,text,true,,1057,852,46,46,https://thinking-tester-contact-list.herokuapp.com/contacts,3412,0,0
+1739130488381,1068,Transaction Controller - DELETE Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-10,,true,,756,667,46,46,null,0,1,0
+1739130488381,1068,GET Contact,200,OK,LOADTEST 1-10,text,true,,756,667,46,46,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90674567cec001338109e,1068,0,0
+1739130485973,3493,Transaction Controller - ADD Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-29,,true,,1057,852,45,45,null,0,1,0
+1739130485974,3493,POST Add Contact,201,Created,LOADTEST 1-29,text,true,,1057,852,45,45,https://thinking-tester-contact-list.herokuapp.com/contacts,3493,0,0
+1739130488454,1228,Transaction Controller - DELETE Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-6,,true,,756,667,45,45,null,0,1,0
+1739130488454,1228,GET Contact,200,OK,LOADTEST 1-6,text,true,,756,667,45,45,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90674567cec001338109d,1228,0,0
+1739130488630,1064,Transaction Controller - GET Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-26,,true,,1056,529,44,44,null,0,0,0
+1739130488630,1064,GET Contact,200,OK,LOADTEST 1-26,text,true,,1056,529,44,44,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90677cc82570013915197,1064,0,0
+1739130488555,1156,Transaction Controller - GET Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-33,,true,,1056,529,44,44,null,0,0,0
+1739130488555,1156,GET Contact,200,OK,LOADTEST 1-33,text,true,,1056,529,44,44,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90678567cec00133810b4,1156,0,0
+1739130484480,5242,POST login user - 49,200,OK,LOADTEST 1-49,text,true,,1278,283,44,44,https://thinking-tester-contact-list.herokuapp.com/users/login,5242,0,805
+1739130488695,1110,Transaction Controller - DELETE Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-30,,true,,756,667,44,44,null,0,1,0
+1739130488696,1110,GET Contact,200,OK,LOADTEST 1-30,text,true,,756,667,44,44,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90677567cec00133810ae,1110,0,0
+1739130484580,5298,POST login user - 50,200,OK,LOADTEST 1-50,text,true,,1278,283,43,43,https://thinking-tester-contact-list.herokuapp.com/users/login,5298,0,941
+1739130486106,6944,Transaction Controller - GET Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-23,,true,,1052,529,43,43,null,0,0,0
+1739130486106,6944,GET Contact,200,OK,LOADTEST 1-23,text,true,,1052,529,43,43,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90675567cec00133810a7,6944,0,0
+1739130489008,4048,Transaction Controller - DELETE Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-39,,true,,752,667,43,43,null,0,0,0
+1739130489008,4048,GET Contact,200,OK,LOADTEST 1-39,text,true,,752,667,43,43,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90677567cec00133810b1,4048,0,0
+1739130489192,3874,Transaction Controller - ADD Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-46,,true,,1057,852,42,42,null,0,0,0
+1739130488785,4281,Transaction Controller - DELETE Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-32,,true,,752,667,42,42,null,0,0,0
+1739130489192,3874,POST Add Contact,201,Created,LOADTEST 1-46,text,true,,1057,852,42,42,https://thinking-tester-contact-list.herokuapp.com/contacts,3874,0,0
+1739130488785,4281,GET Contact,200,OK,LOADTEST 1-32,text,true,,752,667,42,42,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90677567cec00133810af,4281,0,0
+1739130488786,4280,Transaction Controller - DELETE Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-15,,true,,752,667,42,42,null,0,0,0
+1739130488786,4280,GET Contact,200,OK,LOADTEST 1-15,text,true,,752,667,42,42,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90675567cec00133810a0,4280,0,0
+1739130486196,6870,Transaction Controller - DELETE Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-2,,true,,752,667,40,40,null,0,0,0
+1739130486196,6870,GET Contact,200,OK,LOADTEST 1-2,text,true,,752,667,40,40,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90673cc8257001391517c,6870,0,0
+1739130488809,4257,Transaction Controller - DELETE Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-9,,true,,752,667,40,40,null,0,0,0
+1739130488809,4257,GET Contact,200,OK,LOADTEST 1-9,text,true,,752,667,40,40,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90674cc82570013915182,4257,0,0
+1739130488925,4141,Transaction Controller - DELETE Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-11,,true,,752,667,40,40,null,0,1,0
+1739130488925,4141,GET Contact,200,OK,LOADTEST 1-11,text,true,,752,667,40,40,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90674cc82570013915185,4141,0,0
+1739130487048,6032,Transaction Controller - ADD Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-45,,true,,1065,852,37,37,null,0,0,0
+1739130487048,6032,POST Add Contact,201,Created,LOADTEST 1-45,text,true,,1065,852,37,37,https://thinking-tester-contact-list.herokuapp.com/contacts,6032,0,0
+1739130486314,6792,Transaction Controller - GET Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-22,,true,,1052,529,37,37,null,0,0,0
+1739130486314,6792,GET Contact,200,OK,LOADTEST 1-22,text,true,,1052,529,37,37,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90676567cec00133810a9,6792,0,0
+1739130486144,6963,Transaction Controller - GET Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-18,,true,,1052,529,37,37,null,0,0,0
+1739130486144,6963,GET Contact,200,OK,LOADTEST 1-18,text,true,,1052,529,37,37,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90675567cec00133810a6,6963,0,0
+1739130486304,6803,Transaction Controller - ADD Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-36,,true,,1057,852,37,37,null,0,0,0
+1739130486304,6803,POST Add Contact,201,Created,LOADTEST 1-36,text,true,,1057,852,37,37,https://thinking-tester-contact-list.herokuapp.com/contacts,6803,0,0
+1739130489195,3915,Transaction Controller - DELETE Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-43,,true,,752,667,37,37,null,0,0,0
+1739130489195,3915,GET Contact,200,OK,LOADTEST 1-43,text,true,,752,667,37,37,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90678567cec00133810b2,3915,0,0
+1739130487022,6096,Transaction Controller - GET Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-14,,true,,1060,529,36,36,null,0,0,0
+1739130487022,6096,GET Contact,200,OK,LOADTEST 1-14,text,true,,1060,529,36,36,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90675cc8257001391518b,6096,0,0
+1739130489694,4149,Transaction Controller - DELETE Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-26,,true,,752,667,36,36,null,0,1,0
+1739130489695,4149,GET Contact,200,OK,LOADTEST 1-26,text,true,,752,667,36,36,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90677cc82570013915197,4149,0,0
+1739130487234,6622,Transaction Controller - DELETE Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-1,,true,,760,667,35,35,null,0,0,0
+1739130487234,6622,GET Contact,200,OK,LOADTEST 1-1,text,true,,760,667,35,35,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90673567cec0013381096,6622,0,0
+1739130488367,5523,Transaction Controller - DELETE Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-17,,true,,756,667,34,34,null,0,0,0
+1739130488367,5523,GET Contact,200,OK,LOADTEST 1-17,text,true,,756,667,34,34,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90675cc8257001391518d,5523,0,0
+1739130488115,5780,Transaction Controller - GET Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-20,,true,,1056,529,33,33,null,0,2,0
+1739130488195,5701,Transaction Controller - ADD Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-37,,true,,1061,852,33,33,null,0,1,0
+1739130488116,5780,GET Contact,200,OK,LOADTEST 1-20,text,true,,1056,529,33,33,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90676cc82570013915193,5780,0,0
+1739130488195,5701,POST Add Contact,201,Created,LOADTEST 1-37,text,true,,1061,852,33,33,https://thinking-tester-contact-list.herokuapp.com/contacts,5701,0,0
+1739130488292,5605,Transaction Controller - ADD Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-40,,true,,1061,852,33,33,null,0,0,0
+1739130488292,5605,POST Add Contact,201,Created,LOADTEST 1-40,text,true,,1061,852,33,33,https://thinking-tester-contact-list.herokuapp.com/contacts,5605,0,0
+1739130487582,6320,Transaction Controller - GET Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-38,,true,,1060,529,33,33,null,0,1,0
+1739130487216,6687,Transaction Controller - ADD Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-47,,true,,1065,852,33,33,null,0,0,0
+1739130487583,6320,GET Contact,200,OK,LOADTEST 1-38,text,true,,1060,529,33,33,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90677567cec00133810ad,6320,0,0
+1739130487216,6687,POST Add Contact,201,Created,LOADTEST 1-47,text,true,,1065,852,33,33,https://thinking-tester-contact-list.herokuapp.com/contacts,6687,0,0
+1739130488390,5514,Transaction Controller - DELETE Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-8,,true,,756,667,33,33,null,0,1,0
+1739130488390,5514,GET Contact,200,OK,LOADTEST 1-8,text,true,,756,667,33,33,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90674cc82570013915181,5514,0,0
+1739130488047,5878,Transaction Controller - ADD Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-35,,true,,1061,852,32,32,null,0,0,0
+1739130488047,5878,POST Add Contact,201,Created,LOADTEST 1-35,text,true,,1061,852,32,32,https://thinking-tester-contact-list.herokuapp.com/contacts,5878,0,0
+1739130487852,6087,Transaction Controller - GET Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-31,,true,,1056,529,32,32,null,0,0,0
+1739130487852,6087,GET Contact,200,OK,LOADTEST 1-31,text,true,,1056,529,32,32,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90677567cec00133810b0,6087,0,0
+1739130488468,5489,Transaction Controller - DELETE Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-13,,true,,756,667,32,32,null,0,0,0
+1739130488468,5489,GET Contact,200,OK,LOADTEST 1-13,text,true,,756,667,32,32,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90674567cec001338109f,5489,0,0
+1739130488420,5540,Transaction Controller - DELETE Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-5,,true,,756,667,31,31,null,0,0,0
+1739130488420,5540,GET Contact,200,OK,LOADTEST 1-5,text,true,,756,667,31,31,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90674567cec001338109c,5540,0,0
+1739130493079,1061,Transaction Controller - GET Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-45,,true,,1060,529,30,30,null,0,1,0
+1739130493079,1061,GET Contact,200,OK,LOADTEST 1-45,text,true,,1060,529,30,30,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90679cc825700139151a1,1061,0,0
+1739130493106,1124,Transaction Controller - DELETE Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-18,,true,,760,667,30,30,null,0,0,0
+1739130493106,1124,GET Contact,200,OK,LOADTEST 1-18,text,true,,760,667,30,30,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90675567cec00133810a6,1124,0,0
+1739130493118,1123,Transaction Controller - DELETE Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-14,,true,,760,667,29,29,null,0,0,0
+1739130493118,1123,GET Contact,200,OK,LOADTEST 1-14,text,true,,760,667,29,29,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90675cc8257001391518b,1123,0,0
+1739130488574,6028,Transaction Controller - DELETE Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-21,,true,,756,667,28,28,null,0,1,0
+1739130488575,6028,GET Contact,200,OK,LOADTEST 1-21,text,true,,756,667,28,28,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90676cc82570013915190,6028,0,0
+1739130488621,5999,Transaction Controller - ADD Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-41,,true,,1061,852,27,27,null,0,0,0
+1739130488621,5999,POST Add Contact,201,Created,LOADTEST 1-41,text,true,,1061,852,27,27,https://thinking-tester-contact-list.herokuapp.com/contacts,5999,0,0
+1739130489201,5444,Transaction Controller - DELETE Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-12,,true,,752,667,27,27,null,0,1,0
+1739130489202,5444,GET Contact,200,OK,LOADTEST 1-12,text,true,,752,667,27,27,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90674cc82570013915186,5444,0,0
+1739130489044,5610,Transaction Controller - GET Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-27,,true,,1052,529,26,26,null,0,0,0
+1739130489044,5610,GET Contact,200,OK,LOADTEST 1-27,text,true,,1052,529,26,26,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90678cc8257001391519b,5610,0,0
+1739130488984,5681,Transaction Controller - GET Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-25,,true,,1052,529,26,26,null,0,1,0
+1739130488984,5681,GET Contact,200,OK,LOADTEST 1-25,text,true,,1052,529,26,26,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90677cc82570013915199,5681,0,0
+1739130489722,4951,Transaction Controller - ADD Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-49,,true,,1061,852,26,26,null,0,0,0
+1739130489722,4951,POST Add Contact,201,Created,LOADTEST 1-49,text,true,,1061,852,26,26,https://thinking-tester-contact-list.herokuapp.com/contacts,4951,0,0
+1739130488542,6134,Transaction Controller - GET Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-48,,true,,1056,529,26,26,null,0,0,0
+1739130488542,6134,GET Contact,200,OK,LOADTEST 1-48,text,true,,1056,529,26,26,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90678567cec00133810b3,6134,0,0
+1739130489013,5673,Transaction Controller - ADD Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-42,,true,,1057,852,26,26,null,0,0,0
+1739130489013,5673,POST Add Contact,201,Created,LOADTEST 1-42,text,true,,1057,852,26,26,https://thinking-tester-contact-list.herokuapp.com/contacts,5673,0,0
+1739130488958,5729,Transaction Controller - GET Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-24,,true,,1052,529,26,26,null,0,0,0
+1739130488658,6029,Transaction Controller - DELETE Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-19,,true,,756,667,26,26,null,0,0,0
+1739130488958,5729,GET Contact,200,OK,LOADTEST 1-24,text,true,,1052,529,26,26,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90677cc82570013915198,5729,0,0
+1739130488658,6029,GET Contact,200,OK,LOADTEST 1-19,text,true,,756,667,26,26,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90676cc8257001391518f,6029,0,0
+1739130493049,1638,Transaction Controller - DELETE Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-23,,true,,760,667,25,25,null,0,0,0
+1739130493049,1638,GET Contact,200,OK,LOADTEST 1-23,text,true,,760,667,25,25,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90675567cec00133810a7,1638,0,0
+1739130489246,5451,Transaction Controller - ADD Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-44,,true,,1057,852,24,24,null,0,0,0
+1739130489246,5451,POST Add Contact,201,Created,LOADTEST 1-44,text,true,,1057,852,24,24,https://thinking-tester-contact-list.herokuapp.com/contacts,5451,0,0
+1739130493065,1634,Transaction Controller - GET Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-46,,true,,1060,529,24,24,null,0,0,0
+1739130489260,5440,Transaction Controller - GET Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-34,,true,,1052,529,24,24,null,0,0,0
+1739130493065,1634,GET Contact,200,OK,LOADTEST 1-46,text,true,,1060,529,24,24,https://thinking-tester-contact-list.herokuapp.com/contacts/67a9067a567cec00133810b5,1634,0,0
+1739130489260,5440,GET Contact,200,OK,LOADTEST 1-34,text,true,,1052,529,24,24,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90678cc8257001391519d,5440,0,0
+1739130489467,5234,Transaction Controller - GET Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-29,,true,,1052,529,24,24,null,0,0,0
+1739130489467,5234,GET Contact,200,OK,LOADTEST 1-29,text,true,,1052,529,24,24,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90678cc8257001391519f,5234,0,0
+1739130489354,5354,Transaction Controller - GET Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-28,,true,,1052,529,24,24,null,0,0,0
+1739130489354,5354,GET Contact,200,OK,LOADTEST 1-28,text,true,,1052,529,24,24,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90678cc8257001391519e,5354,0,0
+1739130489711,5004,Transaction Controller - DELETE Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-33,,true,,756,667,24,24,null,0,0,0
+1739130489711,5004,GET Contact,200,OK,LOADTEST 1-33,text,true,,756,667,24,24,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90678567cec00133810b4,5004,0,0
+1739130489878,4852,Transaction Controller - ADD Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-50,,true,,1061,852,23,23,null,0,1,0
+1739130489878,4852,POST Add Contact,201,Created,LOADTEST 1-50,text,true,,1061,852,23,23,https://thinking-tester-contact-list.herokuapp.com/contacts,4852,0,0
+1739130493107,1640,Transaction Controller - GET Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-36,,true,,1060,529,23,23,null,0,0,0
+1739130493107,1640,GET Contact,200,OK,LOADTEST 1-36,text,true,,1060,529,23,23,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90679cc825700139151a0,1640,0,0
+1739130493105,1652,Transaction Controller - DELETE Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-22,,true,,760,667,23,23,null,0,0,0
+1739130493105,1652,GET Contact,200,OK,LOADTEST 1-22,text,true,,760,667,23,23,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90676567cec00133810a9,1652,0,0
+1739130493896,1268,Transaction Controller - GET Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-37,,true,,1056,529,22,22,null,0,1,0
+1739130493896,1268,GET Contact,200,OK,LOADTEST 1-37,text,true,,1056,529,22,22,https://thinking-tester-contact-list.herokuapp.com/contacts/67a9067acc825700139151a4,1268,0,0
+1739130493896,1269,Transaction Controller - GET Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-40,,true,,1056,529,22,22,null,0,1,0
+1739130493896,1269,GET Contact,200,OK,LOADTEST 1-40,text,true,,1056,529,22,22,https://thinking-tester-contact-list.herokuapp.com/contacts/67a9067acc825700139151a5,1269,0,0
+1739130493896,1271,Transaction Controller - DELETE Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-20,,true,,756,667,22,22,null,0,0,0
+1739130493896,1271,GET Contact,200,OK,LOADTEST 1-20,text,true,,756,667,22,22,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90676cc82570013915193,1271,0,0
+1739130493902,1309,Transaction Controller - DELETE Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-38,,true,,756,667,21,21,null,0,0,0
+1739130493902,1309,GET Contact,200,OK,LOADTEST 1-38,text,true,,756,667,21,21,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90677567cec00133810ad,1309,0,0
+1739130493902,1309,Transaction Controller - GET Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-47,,true,,1056,529,21,21,null,0,1,0
+1739130493902,1309,GET Contact,200,OK,LOADTEST 1-47,text,true,,1056,529,21,21,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90679cc825700139151a2,1309,0,0
+1739130493939,1287,Transaction Controller - DELETE Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-31,,true,,756,667,20,20,null,0,0,0
+1739130493939,1287,GET Contact,200,OK,LOADTEST 1-31,text,true,,756,667,20,20,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90677567cec00133810b0,1287,0,0
+1739130494141,1086,Transaction Controller - DELETE Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-45,,true,,756,667,19,19,null,0,0,0
+1739130494141,1086,GET Contact,200,OK,LOADTEST 1-45,text,true,,756,667,19,19,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90679cc825700139151a1,1086,0,0
+1739130493924,1555,Transaction Controller - GET Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-35,,true,,1056,529,18,18,null,0,0,0
+1739130493924,1555,GET Contact,200,OK,LOADTEST 1-35,text,true,,1056,529,18,18,https://thinking-tester-contact-list.herokuapp.com/contacts/67a9067acc825700139151a3,1555,0,0
+1739130494620,1063,Transaction Controller - GET Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-41,,true,,1056,529,18,18,null,0,1,0
+1739130494620,1063,GET Contact,200,OK,LOADTEST 1-41,text,true,,1056,529,18,18,https://thinking-tester-contact-list.herokuapp.com/contacts/67a9067dcc825700139151a6,1063,0,0
+1739130494653,1072,Transaction Controller - DELETE Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-27,,true,,756,667,18,18,null,0,0,0
+1739130494653,1072,GET Contact,200,OK,LOADTEST 1-27,text,true,,756,667,18,18,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90678cc8257001391519b,1072,0,0
+1739130494665,1104,Transaction Controller - DELETE Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-25,,true,,756,667,17,17,null,0,0,0
+1739130494665,1104,GET Contact,200,OK,LOADTEST 1-25,text,true,,756,667,17,17,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90677cc82570013915199,1104,0,0
+1739130494672,1276,Transaction Controller - GET Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-49,,true,,1056,529,16,16,null,0,0,0
+1739130494672,1276,GET Contact,200,OK,LOADTEST 1-49,text,true,,1056,529,16,16,https://thinking-tester-contact-list.herokuapp.com/contacts/67a9067ecc825700139151a9,1276,0,0
+1739130494699,1264,Transaction Controller - DELETE Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-46,,true,,752,667,16,16,null,0,0,0
+1739130494699,1264,GET Contact,200,OK,LOADTEST 1-46,text,true,,752,667,16,16,https://thinking-tester-contact-list.herokuapp.com/contacts/67a9067a567cec00133810b5,1264,0,0
+1739130494696,1283,Transaction Controller - GET Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-44,,true,,1056,529,15,15,null,0,1,0
+1739130494697,1283,GET Contact,200,OK,LOADTEST 1-44,text,true,,1056,529,15,15,https://thinking-tester-contact-list.herokuapp.com/contacts/67a9067dcc825700139151a8,1283,0,0
+1739130494700,1298,Transaction Controller - DELETE Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-29,,true,,752,667,15,15,null,0,0,0
+1739130494700,1298,GET Contact,200,OK,LOADTEST 1-29,text,true,,752,667,15,15,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90678cc8257001391519f,1298,0,0
+1739130494685,1313,Transaction Controller - GET Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-42,,true,,1056,529,15,15,null,0,0,0
+1739130494685,1313,GET Contact,200,OK,LOADTEST 1-42,text,true,,1056,529,15,15,https://thinking-tester-contact-list.herokuapp.com/contacts/67a9067dcc825700139151a7,1313,0,0
+1739130494675,1324,Transaction Controller - DELETE Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-48,,true,,756,667,14,14,null,0,0,0
+1739130494675,1324,GET Contact,200,OK,LOADTEST 1-48,text,true,,756,667,14,14,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90678567cec00133810b3,1324,0,0
+1739130494747,1264,Transaction Controller - DELETE Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-36,,true,,752,667,13,13,null,0,0,0
+1739130494747,1264,GET Contact,200,OK,LOADTEST 1-36,text,true,,752,667,13,13,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90679cc825700139151a0,1264,0,0
+1739130494707,1311,Transaction Controller - DELETE Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-28,,true,,752,667,12,12,null,0,1,0
+1739130494707,1311,GET Contact,200,OK,LOADTEST 1-28,text,true,,752,667,12,12,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90678cc8257001391519e,1311,0,0
+1739130494699,1319,Transaction Controller - DELETE Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-34,,true,,752,667,12,12,null,0,1,0
+1739130494699,1319,GET Contact,200,OK,LOADTEST 1-34,text,true,,752,667,12,12,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90678cc8257001391519d,1319,0,0
+1739130494730,1288,Transaction Controller - GET Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-50,,true,,1052,529,12,12,null,0,0,0
+1739130494730,1288,GET Contact,200,OK,LOADTEST 1-50,text,true,,1052,529,12,12,https://thinking-tester-contact-list.herokuapp.com/contacts/67a9067ecc825700139151aa,1288,0,0
+1739130494686,1341,Transaction Controller - DELETE Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-24,,true,,756,667,10,10,null,0,0,0
+1739130494686,1341,GET Contact,200,OK,LOADTEST 1-24,text,true,,756,667,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90677cc82570013915198,1341,0,0
+1739130495166,1054,Transaction Controller - DELETE Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-40,,true,,752,667,9,9,null,0,0,0
+1739130495166,1054,GET Contact,200,OK,LOADTEST 1-40,text,true,,752,667,9,9,https://thinking-tester-contact-list.herokuapp.com/contacts/67a9067acc825700139151a5,1054,0,0
+1739130495165,1064,Transaction Controller - DELETE Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-37,,true,,752,667,8,8,null,0,1,0
+1739130495165,1064,GET Contact,200,OK,LOADTEST 1-37,text,true,,752,667,8,8,https://thinking-tester-contact-list.herokuapp.com/contacts/67a9067acc825700139151a4,1064,0,0
+1739130495212,1108,Transaction Controller - DELETE Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-47,,true,,752,667,7,7,null,0,0,0
+1739130495212,1108,GET Contact,200,OK,LOADTEST 1-47,text,true,,752,667,7,7,https://thinking-tester-contact-list.herokuapp.com/contacts/67a90679cc825700139151a2,1108,0,0
+1739130495479,1112,Transaction Controller - DELETE Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-35,,true,,752,667,6,6,null,0,1,0
+1739130495479,1112,GET Contact,200,OK,LOADTEST 1-35,text,true,,752,667,6,6,https://thinking-tester-contact-list.herokuapp.com/contacts/67a9067acc825700139151a3,1112,0,0
+1739130495684,1084,Transaction Controller - DELETE Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-41,,true,,752,667,5,5,null,0,1,0
+1739130495684,1084,GET Contact,200,OK,LOADTEST 1-41,text,true,,752,667,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a9067dcc825700139151a6,1084,0,0
+1739130495948,1061,Transaction Controller - DELETE Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-49,,true,,760,667,4,4,null,0,0,0
+1739130495948,1061,GET Contact,200,OK,LOADTEST 1-49,text,true,,760,667,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts/67a9067ecc825700139151a9,1061,0,0
+1739130495980,1102,Transaction Controller - DELETE Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-44,,true,,760,667,3,3,null,0,0,0
+1739130495980,1102,GET Contact,200,OK,LOADTEST 1-44,text,true,,760,667,3,3,https://thinking-tester-contact-list.herokuapp.com/contacts/67a9067dcc825700139151a8,1102,0,0
+1739130495998,1098,Transaction Controller - DELETE Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-42,,true,,760,667,2,2,null,0,0,0
+1739130495998,1098,GET Contact,200,OK,LOADTEST 1-42,text,true,,760,667,2,2,https://thinking-tester-contact-list.herokuapp.com/contacts/67a9067dcc825700139151a7,1098,0,0
+1739130496020,1109,Transaction Controller - DELETE Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",LOADTEST 1-50,,true,,760,667,1,1,null,0,1,0
+1739130496021,1109,GET Contact,200,OK,LOADTEST 1-50,text,true,,760,667,1,1,https://thinking-tester-contact-list.herokuapp.com/contacts/67a9067ecc825700139151aa,1109,0,0
